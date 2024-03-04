@@ -51,7 +51,7 @@ Contributions are welcome! Please follow the guidelines outlined in [CONTRIBUTIN
 
 ## Contact
 
-If you have any questions or issues, feel free to [contact us](vibhutigupta2018@gmail.com).
+If you have any questions or issues, feel free to [contact me](vibhutigupta2018@gmail.com).
 
 ## License
 
