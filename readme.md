@@ -42,7 +42,7 @@ This project aims to analyze sales data stored in CSV format using Python and ge
 
 ## Sample Outputs
 
-![Sample Report 1](https://drive.google.com/drive/folders/1z5zh9NG6uXmrVXXPJL5pFXM1KJfR2XoG?usp=sharing)
+[Sample Report 1](https://drive.google.com/drive/folders/1z5zh9NG6uXmrVXXPJL5pFXM1KJfR2XoG?usp=sharing)
 
 
 ## Contributing
